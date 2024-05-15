@@ -1,0 +1,21 @@
+name, nsyll, npause, dur(s), phonationtime(s), speechrate(nsyll/dur), articulation_rate(nsyll/phonationtime), ASD(speakingtime/nsyll), nrFP, tFP(s)
+1HC-ACBC-chevre, 77, 3, 20.53, 18.31, 3.75, 4.21, 0.238
+1HC-AQAC-chevre, 84, 7, 24.54, 19.84, 3.42, 4.23, 0.236
+1HC-AVGE-chevre, 68, 4, 17.47, 15.55, 3.89, 4.37, 0.229
+1HC-ECKC-chevre, 77, 12, 28.91, 20.93, 2.66, 3.68, 0.272
+1HC-FXRA-chevre, 93, 0, 22.75, 22.75, 4.09, 4.09, 0.245
+1HC-GDZI-chevre, 80, 3, 24.56, 21.79, 3.26, 3.67, 0.272
+1HC-IAJC-chevre, 68, 4, 19.50, 15.98, 3.49, 4.25, 0.235
+1HC-IQKL-chevre, 78, 1, 19.30, 17.98, 4.04, 4.34, 0.231
+1HC-KGAP-chevre, 80, 2, 23.21, 22.31, 3.45, 3.59, 0.279
+1HC-KWZA-chevre, 80, 4, 20.08, 18.29, 3.98, 4.38, 0.229
+1HC-KXRA-chevre, 77, 5, 23.60, 19.53, 3.26, 3.94, 0.254
+1HC-LKZT-chevre, 86, 9, 25.73, 20.55, 3.34, 4.19, 0.239
+1HC-MLSV-chevre, 82, 6, 24.68, 20.45, 3.32, 4.01, 0.249
+1HC-MZQO-chevre, 76, 4, 21.55, 19.35, 3.53, 3.93, 0.255
+1HC-OZUD-chevre, 75, 4, 20.17, 17.81, 3.72, 4.21, 0.237
+1HC-PLIQ-chevre, 63, 2, 19.48, 17.55, 3.23, 3.59, 0.279
+1HC-PVSZ-chevre, 93, 6, 47.78, 21.81, 1.95, 4.26, 0.235
+1HC-ZANM-chevre, 78, 6, 21.95, 18.25, 3.55, 4.27, 0.234
+2HC-IWHW-chevre, 84, 5, 23.40, 20.16, 3.59, 4.17, 0.240
+2HC-MLLK-chevre, 85, 5, 20.41, 18.09, 4.17, 4.70, 0.213
