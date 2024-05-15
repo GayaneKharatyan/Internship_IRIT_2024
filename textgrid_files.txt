@@ -1,0 +1,13 @@
+alignement_Lucile/HC/1HC-ACBC-chevre.wav/1HC-ACBC-chevre_manuel.TextGrid
+alignement_Lucile/HC/1HC-ACBC-chevre.wav/ctm.textgrid
+alignement_Lucile/PD/1PD-AGJI-chevre.wav/1PD-AGJI-chevre-manuel.TextGrid
+alignement_Lucile/PD/1PD-AGJI-chevre.wav/ctm.textgrid
+alignement_Lucile/PD/1PD-ASTW-chevre.wav/1PD-ASTW-chevre-manuel.TextGrid
+alignement_Lucile/PD/1PD-ASTW-chevre.wav/ctm.textgrid
+alignement_Lucile/MSA/1MSA-ESWQ-chevre.wav/1MSA-ESWQ-chevre-manuel.TextGrid
+alignement_Lucile/MSA/1MSA-ESWQ-chevre.wav/ctm.textgrid
+alignement_Lucile/MSA/1MSA-FXAY-chevre.wav/1MSA-FXAY-chevre-manuel.TextGrid
+alignement_Lucile/MSA/1MSA-FXAY-chevre.wav/ctm.textgrid
+
+
+
